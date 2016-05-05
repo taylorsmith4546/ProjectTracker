@@ -1,0 +1,13 @@
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/xunit.abstractions.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/xunit.core.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/xunit.execution.dotnet.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/xunit.assert.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/xunit.execution.desktop.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/ProjectTracker.Tests.dll.mdb
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/ProjectTracker.Tests.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/obj/Debug/ProjectTracker.Tests.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/obj/Debug/ProjectTracker.Tests.dll.mdb
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/ProjectTracker.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/ProjectTracker.dll.mdb
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker.Tests/bin/Debug/Xamarin.Forms.Core.dll

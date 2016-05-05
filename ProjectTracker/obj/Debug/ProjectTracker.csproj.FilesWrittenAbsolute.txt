@@ -1,0 +1,7 @@
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/bin/Debug/ProjectTracker.dll.mdb
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/bin/Debug/ProjectTracker.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/obj/Debug/ProjectTracker.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/obj/Debug/ProjectTracker.dll.mdb
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/bin/Debug/Xamarin.Forms.Core.dll
+/Users/taylorsmith/Projects/ProjectTracker/ProjectTracker/bin/Debug/Xamarin.Forms.Xaml.dll
